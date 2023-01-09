@@ -15,10 +15,10 @@
 - A simple Student Counselling Website that can be implemented in schools for online counselling of students by counsellors from anywhere in the world
 - This website is locally hosted on the pc using xampp or any local hosting software
 
-LIST OF APPLICATIONS AND CODEBASES USED:
-# Visual Studio Code 
-# HTML, CSS, Javascript, Bootstrap, PHP
-# XAMPP
+# LIST OF APPLICATIONS AND CODEBASES USED:
+- Visual Studio Code 
+- HTML, CSS, Javascript, Bootstrap, PHP
+- XAMPP
 
 # DOCUMENTATION OF THE SOFTWARE:
 - This website is uses the name TenderPath 
@@ -49,15 +49,15 @@ LIST OF APPLICATIONS AND CODEBASES USED:
 - Navigate to the directory where the ".sql" database file is located on your computer. The name of the file is "chatapp.sql". Select the file.
 - Scroll down and click on the "Go" button
 - It will automatically import the database.
-- - Type in the search bar "Localhost/Student Counselling Website or 127.0.0.1/Student Counselling Webiste"
+- Type in the search bar "Localhost/Student Counselling Website or 127.0.0.1/Student Counselling Webiste"
 - That is all. You can now interact with the Website
 
 
 PLEASE NOTE: 
-# All images and names used are non-existent. 
-# No part of this software was stolen from an already copyrighted existing software on the internet.
-# Images are gotten from www.fotor.com and www.thispersondoesnotexist.com
-# If you encounter any error(s), do not hesitate in contacting me 
+- All images and names used are non-existent. 
+- No part of this software was stolen from an already copyrighted existing software on the internet.
+- Images are gotten from www.fotor.com and www.thispersondoesnotexist.com
+- If you encounter any error(s), do not hesitate in contacting me 
 
 Thank you 
 
