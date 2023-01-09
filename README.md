@@ -18,7 +18,7 @@
 - XAMPP
 
 # DOCUMENTATION OF THE SOFTWARE:
-- This website is uses the name TenderPath 
+- This website uses the name TenderPath 
 - Download WinRAR because it is needed to extract the files: 
 - WinRAR download site: https://www.win-rar.com/download.html?&L=0 
 - Download xampp from the internet using any web browser of your choice:
