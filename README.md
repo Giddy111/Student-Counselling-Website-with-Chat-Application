@@ -1,10 +1,9 @@
-![Screenshot (33)](https://user-images.githubusercontent.com/33707645/211311584-139e8e09-3641-48ee-b3d2-7d4e55bb5e30.png)
-![Screenshot (34)](https://user-images.githubusercontent.com/33707645/211311612-8ead0576-697f-45aa-a97d-660953edd86e.png)
-![Screenshot (35)](https://user-images.githubusercontent.com/33707645/211311643-9c4c08c1-58a0-44e8-b9b2-80518f825f4d.png) 
-![Screenshot (36)](https://user-images.githubusercontent.com/33707645/211311729-fe879a01-806a-4e88-b5de-e4ec362f081c.png)
-
-![Screenshot (31)](https://user-images.githubusercontent.com/33707645/211311243-08d7ccfd-2dad-4a9f-8271-170684ebc969.png)
-![Screenshot (32)](https://user-images.githubusercontent.com/33707645/211311244-c004e159-3d4c-412e-9a5d-123685c8e0d5.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/33707645/211318499-930ad4af-6f70-4da0-952e-b0cfb2b344bb.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/33707645/211318508-c75fb202-733a-4b79-821b-7aa58977390b.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/33707645/211318567-de627cf4-4346-4c28-8234-86559c247b98.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/33707645/211318566-c0568886-93c1-41f9-aa54-305f9366f4a1.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/33707645/211318604-4425b5cb-a856-4153-9a81-3a50c0b5f1c3.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/33707645/211318614-c9daa309-7ea6-47be-a4dd-c54285f00772.png)
 
 # Student Counselling Website with Chat Application
  A Counselling Website Landing Page with a Chat Application to allow for communication between parties 
